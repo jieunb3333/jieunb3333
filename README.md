@@ -1,5 +1,9 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/ .NET -512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/ DevExpress -FF7200?style=flat-square&logo=DevExpress&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/ Python -3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/ Django -092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+
 
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
